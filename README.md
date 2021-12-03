@@ -1,4 +1,4 @@
-# INDIAN-POPULATION
+# INDIAN POPULATION
 
 ![](Images/1.png)
 
